@@ -1,6 +1,4 @@
-# 353-final-project
-
-## Project topic: Sensors, Noise, and Walking
+# Project topic: Sensors, Noise, and Walking
 
 ## Data
 The data is divided into 2 directories:
